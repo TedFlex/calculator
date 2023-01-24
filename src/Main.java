@@ -13,7 +13,7 @@ public class Main extends JFrame implements ActionListener {
     public static void main(String[] args) {
         // write your code here
         Main main=new Main();
-        main.setSize(1920,1080);
+        main.setSize(500,500);
         main.setDefaultCloseOperation(EXIT_ON_CLOSE);
         main.setLayout(null);
         main.add=new JButton("add");
